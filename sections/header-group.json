@@ -68,7 +68,7 @@
         "menu": "main-menu",
         "select_motion": "hover",
         "full_width": true,
-        "logo_position": "left-center",
+        "logo_position": "center-left",
         "mobile_header_layout": "center-left",
         "sticky_header_type": "none",
         "logo": "shopify://shop_images/nh_bg_removed_png.png",
